@@ -13,7 +13,7 @@ xcdd [Enter]
 * Delete Xcode DerivedData
 
 ```
-xcdd [hold Option] + [Enter]
+xcdd [hold ⌥] + [Enter]
 ```
 
 <img src="./resources/xcdd-delete.png">
